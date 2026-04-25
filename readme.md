@@ -18,7 +18,7 @@ Sophia Celo
 **Course:** Bachelor of Science in Computer Engineering  
 **Section:** BSCPE 3B  
 **Professor:** Engr. Jervhy Ardiente  
-**Institution:** San Pablo Colleges
+**Institution:** Pamantasan ng Lungsod ng San Pablo
 
 
 ---

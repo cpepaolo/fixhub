@@ -7,7 +7,7 @@ A web-based technician booking platform that connects customers with repair tech
 ## Developers
 
 | Name |
-
+|------|
 Paolo Zarsuelo 
 Charles Joward Asio 
 Christopher Estrellado 
@@ -15,10 +15,10 @@ Gian Arcinas
 John Paul Ong 
 Sophia Celo 
 
-**Course:** Bachelor of Science in Computer Engineering  
-**Section:** BSCPE 3B  
-**Professor:** Engr. Jervhy Ardiente  
-**Institution:** Pamantasan ng Lungsod ng San Pablo
+Course: Bachelor of Science in Computer Engineering  
+Section: BSCPE 3B  
+Professor: Engr. Jervhy Ardiente  
+Institution: San Pablo Colleges
 
 
 ---
@@ -33,21 +33,21 @@ FixHub is a technician booking system where customers can find and book repair t
 
 | Operation | Feature |
 
-| **CREATE** | Customer registration, Technician registration, Submit booking |
-| **READ** | View technicians list, View bookings, Login authentication |
-| **UPDATE** | Technician confirms booking, Technician marks booking as done |
-| **DELETE** | Customer cancels a booking |
+| CREATE | Customer registration, Technician registration, Submit booking |
+| READ | View technicians list, View bookings, Login authentication |
+| UPDATE | Technician confirms booking, Technician marks booking as done |
+| DELETE | Customer cancels a booking |
 
 ---
 
 ## Technologies Used
 
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** PHP
-- **Database:** MySQL
-- **Local Server:** XAMPP (Apache)
-- **Hosting:** InfinityFree (Web), VirtualBox + Ubuntu (Local)
-- **Version Control:** GitHub
+- Frontend: HTML, CSS, JavaScript
+- Backend: PHP
+- Database: MySQL
+- Local Server: XAMPP (Apache)
+- Hosting: InfinityFree (Web), VirtualBox + Ubuntu (Local)
+- Version Control: GitHub
 
 ---
 

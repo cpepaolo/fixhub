@@ -20,11 +20,6 @@ Sophia Celo
 **Professor:** Engr. Jervhy Ardiente  
 **Institution:** San Pablo Colleges
 
----
-
-## Live Website for testing
-
-👉 [fixhub-cpe.infinityfreeapp.com](http://fixhub-cpe.infinityfreeapp.com)
 
 ---
 
